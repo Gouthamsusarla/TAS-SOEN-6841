@@ -37,8 +37,8 @@ In the dynamic field of engineering management, the "Do Less, Lead More" guide e
 
 ## Critical Thinking Analysis
 
-[Read the critical thinking analysis]([#](https://books.google.ca/books?hl=en&lr=&id=t0w1bODEQjAC&oi=fnd&pg=PR7&dq=critical+thinking+analysis&ots=R9xIAeiQXS&sig=XP1XI0u6Qtjqt9pwhigXjEDwrRg&redir_esc=y#v=onepage&q=critical%20thinking%20analysis&f=false))
+[Read the critical thinking analysis](https://books.google.ca/books?hl=en&lr=&id=t0w1bODEQjAC&oi=fnd&pg=PR7&dq=critical+thinking+analysis&ots=R9xIAeiQXS&sig=XP1XI0u6Qtjqt9pwhigXjEDwrRg&redir_esc=y#v=onepage&q=critical%20thinking%20analysis&f=false)
 
 ## References
 
-[![References on Google Scholar](https://img.shields.io/badge/References%20on%20Google%20Scholar-blue?style=flat&logo=google-scholar)]([#](https://scholar.google.com/schhp?hl=en&as_sdt=0,5))
+[![References on Google Scholar](https://img.shields.io/badge/References%20on%20Google%20Scholar-blue?style=flat&logo=google-scholar)](https://scholar.google.com/schhp?hl=en&as_sdt=0,5)
