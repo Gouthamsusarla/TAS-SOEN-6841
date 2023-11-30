@@ -8,7 +8,7 @@ The topic is "Do Less, Lead More"
 
 ## Motivation
 
-In today's dynamic and fast-paced work environments, the role of an engineering manager is multifaceted and demanding. The traditional approach of attempting to do everything often leads to burnout decreased efficiency, and hindered team growth. Recognizing the need for a paradigm shift, the motivation behind "Do Less, Lead More" is to empower engineering managers to strategically navigate their responsibilities. By focusing on leadership, delegation, and intentional decision-making, managers can not only enhance their own well-being but also foster a culture of growth within their teams.
+In today's dynamic and fast-paced work environments, the role of an engineering manager is multifaceted and demanding. The traditional approach of attempting to do everything often leads to burnout decreased efficiency, and hindered team growth. Recognizing the need for a paradigm shift, the motivation behind "Do Less, Lead More" is to empower engineering managers to strategically navigate their responsibilities. By focusing on leadership, delegation, and intentional decision-making, managers can not only enhance their well-being but also foster a culture of growth within their teams.
 
 ## Problem Statement
 
@@ -30,21 +30,15 @@ The challenge faced by engineering managers is the overwhelming pressure to hand
 
 5. **Establish Sustainable Leadership Practices:**
    - Guide engineering managers in developing sustainable leadership practices that not only benefit individual well-being but also contribute to the long-term success of their teams and organizations.
-
-[![Discuss on GitHub](https://img.shields.io/badge/Discuss%20on%20GitHub-blue?style=flat&logo=github)](#)
-[![Critical Thinking Analysis](https://img.shields.io/badge/Critical%20Thinking%20Analysis-blue?style=flat&logo=github)](#)
+     
 
 ## Summary
 In the dynamic field of engineering management, the "Do Less, Lead More" guide explores the pivotal shift from hands-on tasks to strategic leadership. Recognizing the challenges of overwhelming responsibilities, the guide provides insights into managerial evolution, pitfalls of overcommitment, and the manager's dilemma. Emphasizing intentional leadership, it navigates the complexities of managing multiple teams, recognizing limitations, and achieving success through transparent communication, delegation, and strategic decision-making. The guide concludes by reflecting on embracing the intense growth cycle and offers practical insights for aspiring leaders. Explore this comprehensive resource for actionable strategies and principles to thrive in the evolving landscape of engineering management.
 
-## Discussion
-
-[Discuss this guide on GitHub](#)
-
 ## Critical Thinking Analysis
 
-[Read the critical thinking analysis on GitHub](#)
+[Read the critical thinking analysis]([#](https://books.google.ca/books?hl=en&lr=&id=t0w1bODEQjAC&oi=fnd&pg=PR7&dq=critical+thinking+analysis&ots=R9xIAeiQXS&sig=XP1XI0u6Qtjqt9pwhigXjEDwrRg&redir_esc=y#v=onepage&q=critical%20thinking%20analysis&f=false))
 
 ## References
 
-[![References on Google Scholar](https://img.shields.io/badge/References%20on%20Google%20Scholar-blue?style=flat&logo=google-scholar)](#)
+[![References on Google Scholar](https://img.shields.io/badge/References%20on%20Google%20Scholar-blue?style=flat&logo=google-scholar)]([#](https://scholar.google.com/schhp?hl=en&as_sdt=0,5))
